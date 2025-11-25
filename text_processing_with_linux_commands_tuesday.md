@@ -76,7 +76,7 @@ Correct screenshot should contain your github username in the shell, a command a
 
 ---
 
-### What is the top 3 most common actions in app_small.log?
+### 8. What is the top 3 most common actions in app_small.log?
 
 Put screenshot from Codespaces illustrating the result here.
 Correct screenshot should contain your github username in the shell, a command and the result.
@@ -85,7 +85,7 @@ Correct screenshot should contain your github username in the shell, a command a
 
 ---
 
-### How many unique users are in app_small.log?
+### 9. How many unique users are in app_small.log?
 
 Put screenshot from Codespaces illustrating the result here.
 Correct screenshot should contain your github username in the shell, a command and the result.
